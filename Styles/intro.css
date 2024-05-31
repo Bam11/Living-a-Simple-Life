@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    font-size: 1rem;
+    font-family: Roboto Arial;
+    color: rgb(46, 53, 79);
+}
+
+ul{
+    font-size: 1.5rem;
+}
+
+header{
+    background-color: rgb(44, 36, 51);
+    color: white;
+    padding: 45px 0;
+}
+h1{
+    font-size: 3rem;
+    margin: 0;
+}
+
+section{
+    padding: 40px 0;
+}
+
+img{
+    width: 100%;
+}
+
+h2{
+    color: tomato;
+    font-size: 2rem;
+}
+
+a{
+    color: rgb(245, 14, 14);
+}
+
+a:focus{
+    color: rgb(47, 187, 187);
+}
+
+.section-one{
+    font-size: 2rem;
+}
+
+.container{
+    width: 90%;
+    max-width: 620px;
+    margin: 0 auto;
+    border: 2px solid rgb(245, 14, 14);
+}
+
+.section-two{
+    background-color: rgb(44, 36, 51); 
+    color: white;
+}
+
