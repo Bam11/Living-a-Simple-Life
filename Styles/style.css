@@ -185,6 +185,9 @@ footer{
     margin-bottom: 2em;
 }
 
+.about{
+    text-decoration: none;
+}
 
 @media(min-width: 675px){
     .container-flex{
